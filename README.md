@@ -14,45 +14,45 @@
   </a>
 </p>
 
-<h3 align="left">🔭 Currently Working On:</h3>
-<p align="left"> 
+<h3 align="center">🔭 Currently Working On:</h3>
+<p align="center"> 
   - AI/ML and cross-platform mobile app development frameworks
 </p>
 
-<h3 align="left">🌱 Currently Learning:</h3>
-<p align="left"> 
+<h3 align="center">🌱 Currently Learning:</h3>
+<p align="center"> 
   - Advanced techniques in AI/ML and Web Frameworks
 </p>
 
-<h3 align="left">👯 Looking to Collaborate On:</h3>
-<p align="left"> 
+<h3 align="center">👯 Looking to Collaborate On:</h3>
+<p align="center"> 
   - Innovative projects involving AI/ML and Data Analytics
 </p>
 
-<h3 align="left">🤝 Seeking Help With:</h3>
-<p align="left"> 
+<h3 align="center">🤝 Seeking Help With:</h3>
+<p align="center"> 
   - Exploring new frameworks and tools in AI/ML
 </p>
 
-<h3 align="left">💬 Ask Me About:</h3>
-<p align="left"> 
+<h3 align="center">💬 Ask Me About:</h3>
+<p align="center"> 
   - AI, Machine Learning, Deep Learning, Data Analytics, and UI/UX Design
 </p>
 
-<h3 align="left">📫 How to Reach Me:</h3>
-<p align="left"> 
+<h3 align="center">📫 How to Reach Me:</h3>
+<p align="center"> 
   - Email: <a href="mailto:puriparth33@gmail.com">puriparth33@gmail.com</a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://linkedin.com/in/parth-mahendra-puri" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%40parth--mahendra--puri-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="bootstrap" width="60" height="60"/>
   </a>
