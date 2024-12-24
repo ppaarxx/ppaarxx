@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parth Mahendra Puri</h1>
-<h3 align="center">A passionate Artificial Intelligence and Data Science Engineer from India</h3>
+<h3 align="center">A professional Machine Learning Engineer from India</h3>
+<h3 align="center">B.E. in Artificial Intelligence and Data Science</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ppaarxx&label=Profile%20views&color=0e75b6&style=flat" alt="ppaarxx" />
