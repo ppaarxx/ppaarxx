@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parth Mahendra Puri</h1>
-<h3 align="center">A professional Machine Learning Engineer from India</h3>
+<h3 align="center">A professional AI Engineer from India</h3>
 <h3 align="center">B.E. in Artificial Intelligence and Data Science</h3>
 
 <p align="center">
